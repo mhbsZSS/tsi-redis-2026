@@ -110,3 +110,5 @@ OK
 127.0.0.1:6379> PTTL sessao
 (integer) -2
 127.0.0.1:6379> 
+
+Atualização das atividades
