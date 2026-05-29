@@ -112,3 +112,9 @@ OK
 127.0.0.1:6379> 
 
 Atualização das atividades
+
+docker compose up -d
+
+docker ps
+
+docker exec -it redis-aula redis-cli
